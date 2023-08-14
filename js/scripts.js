@@ -51,6 +51,6 @@ addH2.append("A colorful bird!");
   // another h1 DONE
   // ul w/ 2 li's DONE
   // h2
-    //outside link
+    //outside linkSS
 
     
